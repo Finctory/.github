@@ -21,6 +21,7 @@ Finctory 期望透過產品創新，建立屬於新世代的財務助理平台�
 | 專案名稱 | 說明 | 技術棧 |
 |----------|------|--------|
 | [發票醫生](https://invoice-doctor-dev.finctory.com) | 個人財務助理 SaaS，幫助使用者視覺化儲蓄目標並提供 AI 理財建議 | Nuxt.js, FastAPI, PostgreSQL, OpenAI API |
+| [淘換算 Taobao Exchange](https://chromewebstore.google.com/detail/%E6%B7%98%E6%8F%9B%E7%AE%97-taobao-exchange/neikbgpobachnkgcefcmedgojmedbfmk?authuser=4&hl=zh-TW) | Chrome 瀏覽器插件，自動將淘寶人民幣金額轉換為新台幣顯示，提升購物體驗 | React.js |
 
 ---
 
